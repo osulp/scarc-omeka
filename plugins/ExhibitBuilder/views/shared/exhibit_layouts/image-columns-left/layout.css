@@ -1,0 +1,17 @@
+/* CSS for the image-list-left layout */
+
+.exhibit-item {
+    float:left; 
+    width: 48%;
+	overflow: hidden;
+    margin-bottom:2%;
+}
+
+.exhibit-item img {
+    max-width:100%;
+}
+
+.exhibit-text {
+    float:right;
+    width: 48%;
+}

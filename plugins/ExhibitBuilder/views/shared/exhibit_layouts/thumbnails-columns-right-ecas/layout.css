@@ -1,0 +1,30 @@
+/* CSS for the thumbnails-columns-right layout */
+
+.image-text-group {
+    overflow:hidden;
+    zoom:1;
+}
+
+.exhibit-item {
+    float:left; 
+    width: 24%;
+    margin-bottom:2%;
+	padding:2px;
+}
+
+.exhibit-item img {
+    width:80px;
+	height:80px;
+}
+
+.exhibit-text {
+    float:left;
+    width: 48%;
+}
+
+.right-gallery{
+	width: 48%;
+	float:right;
+	display:inline-block;
+	
+}

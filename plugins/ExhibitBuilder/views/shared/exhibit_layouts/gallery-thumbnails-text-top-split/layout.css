@@ -1,0 +1,6 @@
+.gallery-thumbnails-text-top .primary {clear:both;}
+
+.gallery-thumbnails-text-top .secondary {}
+.gallery-thumbnails-text-top .secondary .exhibit-item {display:block; float:left; width:170px; height:290px; padding-top:18px; margin-right:18px; margin-bottom: 18px;}
+
+.exhibit-item .item-title a.exhibit-item-link { white-space: nowrap; }
