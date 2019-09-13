@@ -2346,7 +2346,7 @@
     color: #5a4e36;
   }
   .forestry h1, .forestry #site-title a {
-    color: #2f3e4a;
+    color: #393939;
   }
   .forestry input[type=submit], .forestry button, .forestry .button, .forestry #advanced-search {
     background-color: #000000;
@@ -2355,7 +2355,7 @@
     background-color: #dfe2e2;
   }
   .forestry a:link {
-    color: #56acba;
+    color: #000000;
   }
   .forestry a:visited {
     color: #9c27b0;
@@ -2364,22 +2364,22 @@
     color: #DC4405;
   }
   .forestry header {
-    background-color: #006a8e;
+    background-color: #4A773C;
   }
   .forestry nav.top {
-    background-color: #56acba;
+    background-color: #cabfa6;
   }
   .forestry nav.top li:hover a {
     color: #fff;
   }
   .forestry nav.top a:link, .forestry nav.top a:visited {
-    color: #def9ff;
+    color: #cabfa6;
   }
   .forestry nav.top a:active, .forestry nav.top a:hover {
     color: #fff;
   }
   .forestry nav.top ul li ul {
-    background-color: #56acba;
+    background-color: #cabfa6;
   }
   .forestry nav.top ul li ul li > a:link, .forestry nav.top ul li ul li > a:visited, .forestry nav.top ul li ul li > a:active, .forestry nav.top ul li ul li > a:hover {
     color: #fff;
@@ -2396,11 +2396,11 @@
     background-color: #8e9089;
   }
   .forestry #home #content > div {
-    border-color: #2f3e4a;
+    border-color: #393939;
     *border-width: 10px 1px 1px 1px;
     *border-style: solid;
     *border-color: #e8e8e8;
-    *border-top-color: #2f3e4a;
+    *border-top-color: #393939;
   }
   .forestry #content h1 {
     color: #4000000;
@@ -2409,21 +2409,21 @@
     border-color: #dfe2e2;
   }
   .forestry #content div {
-    border-color: #2f3e4a;
+    border-color: #393939;
   }
   .forestry #content > div, .forestry #content #primary > div, .forestry #content #sidebar > div,
   .forestry #content #advanced-search-form > div, .forestry #content #exhibit-pages {
-    border-color: #2f3e4a;
+    border-color: #393939;
     *border-width: 10px 1px 1px 1px;
     *border-style: solid;
     *border-color: #e8e8e8;
-    *border-top-color: #2f3e4a;
+    *border-top-color: #393939;
   }
   .forestry #content #primary > div, .forestry #content #sidebar > div {
     background-color: #fff;
   }
   .forestry #content .pagination_previous a, .forestry #content .pagination_next a {
-    background-color: #56acba;
+    background-color: #cabfa6;
   }
   .forestry #content .pagination a:link, .forestry #content .pagination a:visited {
     color: #def9ff;
@@ -2435,10 +2435,10 @@
     border-color: #dfe2e2;
   }
   .forestry #content nav .pagination_list {
-    background-color: #56acba;
+    background-color: #cabfa6;
   }
   .forestry #content .items-nav a:link, .forestry #content .items-nav a:visited, .forestry #content .secondary-nav a:link, .forestry #content .secondary-nav a:visited, .forestry #content #secondary-nav a:link, .forestry #content #secondary-nav a:visited {
-    color: #def9ff;
+    color: #cabfa6;
   }
   .forestry #content .items-nav a:hover, .forestry #content .items-nav a:active, .forestry #content .secondary-nav a:hover, .forestry #content .secondary-nav a:active, .forestry #content #secondary-nav a:hover, .forestry #content #secondary-nav a:active {
     color: #dc4405;
@@ -2457,23 +2457,23 @@
     background-color: #000000;
   }
   .forestry #search-filters li, .forestry #item-filters li {
-    background-color: #def9ff;
+    background-color: #cabfa6;
   }
   .forestry .page #content {
-    border-color: #2f3e4a;
+    border-color: #393939;
     *border-width: 10px 1px 1px 1px;
     *border-style: solid;
     *border-color: #e8e8e8;
-    *border-top-color: #2f3e4a;
+    *border-top-color: #393939;
   }
   .forestry footer {
-    background-color: #2f3e4a;
+    background-color: #393939;
   }
   .forestry footer p {
     color: #fff;
   }
   .forestry footer a:link, .forestry footer a:visited {
-    color: #56acba;
+    color: #cabfa6;
   }
   
   .forestry footer a:hover {
@@ -2487,7 +2487,7 @@
     background-color: rgba(0, 0, 0, 0.1);
   }
   .forestry .exhibit-page-nav a:link, .forestry .exhibit-page-nav a:visited {
-    color: #def9ff;
+    color: #cabfa6;
   }
   .forestry .exhibit-page-nav a:hover, .forestry .exhibit-page-nav a:active {
     color: #fff;
