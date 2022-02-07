@@ -9,8 +9,6 @@
 
 <!-- Plugin Stuff -->
 <?php fire_plugin_hook('public_head', array('view'=>$this)); ?>
-<?php include ('http://oregonstate.edu/u_central/top-hat/osu-standard.php?render=css'); ?>
-<?php include ('http://oregonstate.edu/u_central/top-hat/osu-standard.php?render=js&jquery=1'); ?>
 
 <!-- Stylesheets -->
 <?php 
@@ -26,24 +24,6 @@
 </head>
 
 <?php echo body_tag(array('id' => @$bodyid, 'class' => @$bodyclass)); ?>
-
-<div id="wrap3">
-<!--  START OSU TOP HAT --> 
-<div id="osu-top-hat"> 
-	<div id="osu-top-hat-interior" class="wrapper4"> 
-		<a href="http://oregonstate.edu/"><img class="tag" src="http://oregonstate.edu/u_central/top-hat/images/osu-tag.gif" width="101" height="119" alt="Oregon State University" /></a> 
-		<div id="banner-links">
-			<a href="http://oregonstate.edu/">OSU Home</a> | <a href="http://osulibrary.oregonstate.edu/">Libraries Home</a>
-		</div>
-		
-		<div id="title">
-			<h5><a href="http://scarc.library.oregonstate.edu">Special Collections &amp; Archives Research Center</a> - <a href="http://osulibrary.oregonstate.edu">OSU Libraries</a></h5>
-        </div>
-      </div> 
-</div> 
-<!--  END OSU TOP HAT --> 
-</div>
-
 
 <div id="wrap">
 

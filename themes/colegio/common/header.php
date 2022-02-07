@@ -19,9 +19,6 @@
     echo head_css(); 
 ?>
 
-<?php include ('http://oregonstate.edu/u_central/top-hat/osu-standard.php?render=css'); ?>
-<?php include ('http://oregonstate.edu/u_central/top-hat/osu-standard.php?render=js&jquery=1'); ?>
-
     <!-- JavaScripts -->
 		<?php queue_js_file('googleanalytics'); ?>
     <?php echo head_js(); ?>
